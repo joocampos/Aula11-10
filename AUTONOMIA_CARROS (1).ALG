@@ -5,7 +5,7 @@ variaveis
     distancia, litros, autonomia: real
     mais_economico, menos_economico: real
     contador: inteiro
-
+alteração '1'
 inicio
     mais_economico <- 0
     menos_economico <- 0
